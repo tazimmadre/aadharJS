@@ -20,7 +20,7 @@ isValid.aadhar(valid)   /* returns true  */
 You can also calculate the checksum of a AADHAR by -
 isValid.aadhar.getValidDigit('49911866524') /* return 6 */
 
-For Feature requests and Error reporting:
+#### For Feature requests and Error reporting:
 create an issue on github repository or contact directly to tazimmadre5041@gmail.com
 
-**Don't Forget to add a star to github repo. Please provide your comments, suggest improvements and other codes which are not covered in this package.
+##### **Don't Forget to add a star to github repo. Please provide your comments, suggest improvements and other codes which are not covered in this package.
