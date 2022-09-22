@@ -1,0 +1,32 @@
+{
+  "name": "aadharjs",
+  "version": "1.0.1",
+  "description": "this package provides validation of aadhar number of an individual ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "validate",
+    "aadhar",
+    "api",
+    "backend",
+    "frontend",
+    "pan",
+    "validation",
+    "e-seva",
+    "india",
+    "indian",
+    "gstin",
+    "pan",
+    "tan",
+    "aadhar",
+    "imei",
+    "card",
+    "ifsc",
+    "esic",
+    "uan","mobile","pinCode","hsn","sac","checksum","algorithm"
+  ],
+  "author": "tazimmadre",
+  "license": "ISC"
+}
