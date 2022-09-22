@@ -1,6 +1,6 @@
 {
   "name": "aadharjs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "this package provides validation of Aadhar Card number of an individual. (Made in India)",
   "main": "index.js",
   "scripts": {
@@ -25,7 +25,13 @@
     "card",
     "ifsc",
     "esic",
-    "uan","mobile","pinCode","hsn","sac","checksum","algorithm"
+    "uan",
+    "mobile",
+    "pinCode",
+    "hsn",
+    "sac",
+    "checksum",
+    "algorithm"
   ],
   "author": "tazimmadre",
   "license": "ISC"
