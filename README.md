@@ -8,15 +8,15 @@ In your .js file add following code
 
 const isValid = require('aadharjs')
 
-Usage
+###Usage
 1. AADHAR (Issued by - Unique Identification Authority of India):
 validates => Input must be in format ############, and have length 12 and last char is Valid checksum.
-
+```
 const invalid = '499128665246'
 const valid =   '499118665246'
 isValid.aadhar(invalid) /* returns false */
 isValid.aadhar(valid)   /* returns true  */
-
+```
 You can also calculate the checksum of a AADHAR by -
 isValid.aadhar.getValidDigit('49911866524') /* return 6 */
 
