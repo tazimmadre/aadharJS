@@ -8,7 +8,7 @@ In your .js file add following code
 
 const isValid = require('aadharjs')
 
-##Usage
+## Usage
 1. AADHAR (Issued by - Unique Identification Authority of India):
 validates => Input must be in format ############, and have length 12 and last char is Valid checksum.
 ```
