@@ -1,3 +1,4 @@
+![npm](https://img.shields.io/npm/dm/aadharjs.svg)
 Validate an Aadhar Card Number for your frontend and backend systems 
 
 NodeJS
