@@ -1,5 +1,8 @@
 ## AadharJs
 ![npm](https://img.shields.io/npm/dm/aadharjs.svg)
+![npm version](https://img.shields.io/npm/v/aadharjs)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Snyk Vulnerabilities for npm package version](https://img.shields.io/snyk/vulnerabilities/npm/aadharjs.svg)
 ------------------------
 #### Validate an Aadhar Card Number for your frontend and backend systems 
 
