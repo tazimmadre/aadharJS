@@ -1,6 +1,6 @@
 {
   "name": "aadharjs",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "this package provides validation of Aadhar Card number of an individual. (Made in India)",
   "main": "index.js",
   "scripts": {
